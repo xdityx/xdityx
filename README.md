@@ -1,34 +1,45 @@
-# Aditya Acharya
+# Hi, I'm Aditya Acharya
 
-**Causal ML & Uplift Modeling | Azure Data Scientist Associate | MLOps**
+**Data Scientist** | Causal ML · MLOps · Forecasting | Azure DP-100 Certified
 
-Data Scientist focused on building production-ready machine learning systems for customer analytics, forecasting, and decision intelligence.
+Building production-ready ML systems that drive business impact. Specialized in causal inference, uplift modeling, and end-to-end model deployment.
 
-## Skills
+📌 **[View my portfolio →](https://xdityx.github.io/portfolio/)** — Live projects, case studies, and interactive demos
+
+---
+
+## Core Expertise
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightgbm&logoColor=white)
+![Causal ML](https://img.shields.io/badge/Causal%20ML-FF6B6B?style=for-the-badge&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
 
 ## Featured Projects
 
-### Uplift Modeling
-Built causal ML pipelines for treatment effect estimation and targeting optimization using uplift modeling frameworks.
+- **[Profit Uplift Modeling System](https://github.com/xdityx/profit-uplift-modeling-system)** — T-Learner & X-Learner meta-learners for customer targeting. [Live Demo](https://profit-uplift-modeling-system-hrhwqrccm472emfe6lgnp8.streamlit.app/) · [Case Study](https://github.com/xdityx/profit-uplift-modeling-system/blob/master/CASE_STUDY.md)
 
-### Churn MLOps
-Developed an end-to-end churn prediction workflow with experiment tracking, deployment, and monitoring.
+- **[Churn MLOps System](https://github.com/xdityx/Churn-Mlops-System)** — Production ML pipeline with drift detection, FastAPI endpoint, and automated monitoring. [Case Study](https://github.com/xdityx/Churn-Mlops-System/blob/master/CASE_STUDY.md)
 
-### UK Gas Forecasting
-Created a time-series forecasting solution for UK gas demand using weather-driven features and machine learning models.
+- **[UK Gas Demand Forecasting](https://github.com/xdityx/xoserve-uk-gas-demand-forecasting)** — Time-series forecasting with weather covariates and ensemble methods. [Case Study](https://github.com/xdityx/xoserve-uk-gas-demand-forecasting/blob/master/CASE_STUDY.md)
 
-## Certifications
+- **[A/B Testing Framework](https://github.com/xdityx/A-B-Testing-Framework)** — Bayesian, frequentist, and causal inference testing framework. [Live Demo](https://a-b-testing-framework-mkbmuqqzyng7ivqk25qrae.streamlit.app/) · [Case Study](https://github.com/xdityx/A-B-Testing-Framework/blob/master/CASE_STUDY.md)
 
-- Microsoft Azure Data Scientist Associate (DP-100) &mdash; Completed
+---
 
-## Connect
+## Credentials
 
-- [LinkedIn](https://www.linkedin.com/in/aditya-acharya-ds/)
+- **Microsoft Certified: Azure Data Scientist Associate** (DP-100)
+- **HackerRank SQL** — 5-Star Rating
+
+---
+
+## Get In Touch
+
+- **Portfolio:** [xdityx.github.io/portfolio](https://xdityx.github.io/portfolio/)
+- **LinkedIn:** [aditya-acharya-ds](https://www.linkedin.com/in/aditya-acharya-ds/)
+- **Email:** adityacharya1104@gmail.com
